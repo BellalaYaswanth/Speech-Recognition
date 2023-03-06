@@ -2,7 +2,7 @@
 
 Voice Assistant like Apple Siri and Google Speech Recognition!
 
-1) firstly we need to install these packages requirement.txt for exploring every feature 
+1) firstly we need to install these packages like (speech_recognition, pyttsx3, pywhatkit, datetime, wikipedia, pyjokes, webbrowser, os, sys, smtplibfor) exploring every feature 
 
 2) we need to keep surroundings silently 
 
